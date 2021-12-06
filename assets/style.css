@@ -1,0 +1,17 @@
+.main-buttons {
+    gap: 10px;
+}
+
+.main-section {
+    gap: 20px;
+}
+
+.main-card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.main-footer {
+    height: 100px;
+}
